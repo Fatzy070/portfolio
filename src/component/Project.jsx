@@ -10,7 +10,7 @@ const Projects = () => {
         {
             title: "Business Website",
             description: "A responsive mini business website with contact form and product list.",
-            link: "#"
+            link: "https://commerce-rosy-two-60.vercel.app/"
         },
         {
             title: "MongoDB CRUD App",

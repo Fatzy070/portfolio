@@ -1,22 +1,20 @@
 import { useState } from 'react'
-import Hero from './component/Hero'
+import Home from './component/Home'
 import About from './component/About'
 import Contact from './component/Contact'
 import Project from './component/Project'
 import DarkModeToggle from './component/DarkModeToggle'
+import Skills from './component/Skills'
 
 function App() {
   return (
-    <div className="bg-white text-black dark:bg-black dark:text-white transition-colors duration-300 min-h-screen">
-      {/* Dark Mode Button */}
-      <DarkModeToggle />
-
-      {/* Main Sections */}
-      <Hero />
-      <About />
+    <>
+      <Home />
+      <Skills />
+      {/* <About />
       <Project />
-      <Contact />
-    </div>
+      <Contact /> */}
+  </>
   )
 }
 
