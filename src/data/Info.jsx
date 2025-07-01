@@ -14,7 +14,8 @@ const Info = {
         {id:5, name: 'Contact'},
     ],
     menuBar: faBars ,
-    cancel: faXmark
+    cancel: faXmark,
+    
 }
 
 export default Info;
