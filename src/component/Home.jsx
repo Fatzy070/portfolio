@@ -14,12 +14,10 @@ const Home = () => {
     <>
       <div className='flex  justify-center pt-10 lg:pt-20'>
         <section className='z-10   bg-white h-[80px] sm:h-[100px]  md:h-[90px] flex items-center justify-between w-full mx-[1rem] md:mx-[5rem] lg:mx-[12rem] rounded-[60px]'>
-          <div className='flex items-center '>
-                <img 
-                 src={image} 
-                 alt={name} 
-                 className='w-[60px] h-[60px] sm:w-[75px] sm:h-[75px] md:w-[70px] md:h-[75px] object-cover rounded-full' 
-                />
+          <div className='flex items-center gap-1 pl-2 '>
+               <div className='name text-white text-[2.1rem]  w-[60px] h-[60px] rounded-[50%] flex justify-center items-center bg-black '>
+                  <p>OF</p>
+              </div>
 
                  <div className='name lg:text-[2rem] font-semibold'>
                     <p>{name}</p>

@@ -5,6 +5,7 @@ import Contact from './component/Contact'
 import Project from './component/Project'
 import DarkModeToggle from './component/DarkModeToggle'
 import Skills from './component/Skills'
+import Footer from './component/Footer'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Skills />
        <About /> 
       <Contact />
+      <Footer />
   </>
   )
 }
