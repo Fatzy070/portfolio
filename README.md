@@ -42,8 +42,8 @@ This showcases my frontend and backend skills, including full-stack projects pow
 ## 🔗 Connect With Me
 
 - GitHub: [Fatzy070](https://github.com/Fatzy070)
-- Email: yourmail@gmail.com
-- WhatsApp: [Click to chat](https://wa.me/234xxxxxxxxxx)
+- Email: ogunsolafaruk8@gmail.com
+- WhatsApp: [Click to chat](https://wa.me/2348088429227)
 
 ---
 
